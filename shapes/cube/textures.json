@@ -10,11 +10,18 @@
       "author": "Ewan Howell"
     },
     "creaking_heart": {
-      "category": "Creaking Heart",
+      "category": "Creaking Hearts",
       "author": "OliviaTheVampire",
       "variants": {
         "creaking_heart_dormant": {},
         "creaking_heart_awake": {}
+      }
+    },
+    "vault": {
+      "category": "Vaults",
+      "author": "OliviaTheVampire",
+      "variants": {
+        "vault1": {}
       }
     },
     "steve": {
