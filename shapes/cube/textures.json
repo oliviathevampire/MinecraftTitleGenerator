@@ -9,6 +9,14 @@
     "cobblestone": {
       "author": "Ewan Howell"
     },
+    "creaking_heart": {
+      "category": "Creaking Heart",
+      "author": "OliviaTheVampire",
+      "variants": {
+        "creaking_heart_dormant": {},
+        "creaking_heart_awake": {}
+      }
+    },
     "steve": {
       "category": "Skins",
       "author": "B1tseK",

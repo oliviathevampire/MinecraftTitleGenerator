@@ -1009,10 +1009,16 @@
   "shapes/cube/textures/zuri.png": "b6d8d81329cde40455cbd663927754ded68c1e96e9dd93569d22a7d8e862e624",
   "fonts/minecraft-ten/thumbnails/snow_side.png": "20c4582abb176cdd39b663a33ee9e4e0f172f81acfae6eed3e7e87cfac0c5ea3",
   "shapes/cube/thumbnails/creaking_mask.png": "fbc1045377fc8484e29413842345c0211b314d1eeae87018788f7ed2fc1740f8",
-  "shapes/cube/thumbnails/db20.png": "a23b2bfd4e6612a98eafabe3e0b5e6ae0cbd3820da416b8b2214cdb81c2f2c5d",
-  "shapes/cube/thumbnails/olivia.png": "229304ff72ccb52a8e931db1dd0790f57dae75dca6f56e1dd0ffe7cef14a73ee",
+  "shapes/cube/thumbnails/db20.png": "db6f47571efe57d4817015ffec6440e73c06d0ee4eebdbcf5823610fd62b4ab5",
+  "shapes/cube/thumbnails/olivia.png": "6af1bc9f8edc134545e73711653d45ab782d42dab34905962396e2d612d3e9c7",
   "fonts/minecraft-ten/textures/snow_side.png": "57631e4007c6791f024558e196478a5ced49372851106bd722beb249ca552e64",
   "shapes/cube/textures/creaking_mask.png": "c6e9bcf82c4f3f3b9b5111771460fff35dcdfe4c493563c1c3e32943ad30c143",
-  "shapes/cube/textures/db20.png": "7625ed9815231446db9b2de70affa8283b193e77b73f54279710e1cc15caabf9",
-  "shapes/cube/textures/olivia.png": "b3dc36dad61fa6d0f75cf9a476535d1fba4779a122744af788e2cb0e142fc953"
+  "shapes/cube/textures/db20.png": "eaaee63d124e1e749e31dee05f150865d6bdb1b6d4bf0963609fd2515187f2a3",
+  "shapes/cube/textures/olivia.png": "245bd2f41de5211ac6c4b9406639c38a7cedc7794a9d2f0c10f60ae2276ae85b",
+  "shapes/cube/thumbnails/creaking_heart.png": "c18977a52ccbf15d1c56ffdbd4bd3312f53567b8fb91f44ad66492495b3fddab",
+  "shapes/cube/thumbnails/creaking_heart_awake.png": "2c52a2614c0025d41fe6228303b51a43af26b5a58fe91957805db1ad4aad8d56",
+  "shapes/cube/thumbnails/creaking_heart_dormant.png": "88f67b8152db72013acc100193c903d131e6a353bb154ae235435d0270cdf18a",
+  "shapes/cube/textures/creaking_heart.png": "55144e2ddffb3cdf6f393012c26cecb9162c10d616a14e40f73464f7a07a08df",
+  "shapes/cube/textures/creaking_heart_awake.png": "531051f3166028f188f1186e8ac72605a2c970975b335ce134dcaa9a4aba566d",
+  "shapes/cube/textures/creaking_heart_dormant.png": "3764fb6be5d5d10e6df3e201e3660b6716f85cfffcb2938e476d78e7f31e0dca"
 }
