@@ -21,7 +21,11 @@
       "category": "Vaults",
       "author": "OliviaTheVampire",
       "variants": {
-        "vault1": {}
+        "vault_on": {},
+        "vault_ejecting": {},
+        "vault_ominous": {},
+        "vault_ominous_on": {},
+        "vault_ominous_ejecting": {}
       }
     },
     "steve": {
